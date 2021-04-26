@@ -1,0 +1,11 @@
+{
+  "name": "node-watermarks-generator",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/Vpartyzan/node-watermarks-generator.git",
+  "author": "vPartyzan <peregrim.mt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "0.6.4"
+  }
+}
